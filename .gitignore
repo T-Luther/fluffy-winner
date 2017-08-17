@@ -1,0 +1,7 @@
+#Git Ignore
+
+#Ignore Node_Modules
+node_modules/*
+
+#Ignore WebStorm Project Fiels
+.idea/*
